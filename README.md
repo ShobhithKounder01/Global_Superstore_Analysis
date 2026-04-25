@@ -28,7 +28,8 @@ Explored sales, profit, customer segments, product performance, shipping, discou
 ## How to Run the Project
 1. Create database `superstore_db`
 2. Import the CSV file using Table Data Import Wizard or LOAD DATA
-3. Run the `superstore_analysis.sql` script
+3. Open Queries.sql file COPY And PASTE it in your workspace OR
+4. Run the `superstore_analysis.sql` script
 
 ## Future Plans
 - Excel analysis on the same dataset
